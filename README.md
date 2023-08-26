@@ -1,11 +1,11 @@
 # Decision-Tree-Algoritham
 #PROJECT TITLE:
 
-#Prediction of iris.csv data set for decision tree algoritham using supervise learning and machine algoritham.
+Prediction of iris.csv data set for decision tree algoritham using supervise learning and machine algoritham.
 
 #PROBLEM STATEMENT:
 
-#American based botonical gardens grow iris flower in their labs but using bio-technology in a single tree different varities of flowers are grown As a datascience engineer find out accuracy of all categories of flowers contain same species.
+American based botonical gardens grow iris flower in their labs but using bio-technology in a single tree different varities of flowers are grown As a datascience engineer find out accuracy of all categories of flowers contain same species.
 
 #Project Approach
 
@@ -17,4 +17,4 @@
 
 #Conclusion:
 
-#According to the models analysis Decision Tree algoritham work for only 1% Species
+According to the models analysis Decision Tree algoritham work for only 1% Species
